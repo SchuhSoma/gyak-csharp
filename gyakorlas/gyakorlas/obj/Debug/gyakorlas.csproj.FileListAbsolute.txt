@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
+C:\Users\Soma\Documents\C#2\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb
