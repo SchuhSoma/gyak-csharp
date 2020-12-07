@@ -15,7 +15,7 @@ namespace gyakorlas
         static Random rnd = new Random();
         static void Main(string[] args)
         {
-            // Futesszezon();
+            Futesszezon();
             Gyakorlas2();
             Console.ReadKey();
         }
